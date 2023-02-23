@@ -18,3 +18,10 @@ function decrementCount(){
 
 incButton.addEventListener('click', incrementCount)
 decButton.addEventListener('click', decrementCount)
+
+
+function getRandomNumber(number,digits){
+    var randomNumber = Math.floor(Math.random().toFixed(digits)*number)
+    randomNumber = "000"+randomNumber;
+    return randomNumber.substring(randomNumber.length-digits); //will return the random number with no.of digits from right side
+}
