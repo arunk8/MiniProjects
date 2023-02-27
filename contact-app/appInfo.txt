@@ -5,3 +5,10 @@ click on app.js in source to launch the application
 open localhost:3000/ to view the app in any browser
 
 you can add contacts and delete using this app
+
+
+//tutorial
+https://www.youtube.com/watch?v=0riHps91AzE&ab_channel=DipeshMalvia
+
+//github source
+https://github.com/dmalvia/React_Tutorial_Contact_Manager_App
