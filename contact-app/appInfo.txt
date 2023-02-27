@@ -12,3 +12,10 @@ https://www.youtube.com/watch?v=0riHps91AzE&ab_channel=DipeshMalvia
 
 //github source
 https://github.com/dmalvia/React_Tutorial_Contact_Manager_App
+
+
+//css source
+https://cdnjs.com/libraries/semantic-ui
+https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.5.0/semantic.min.css
+
+
