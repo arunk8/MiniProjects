@@ -16,12 +16,12 @@
         button.addEventListener('click', (e) =>{
             if(e.target.innerHTML == '=' ) {
                 string = eval(string);
-                document.getElementsByClassName('display').value = string;
+                document.getElementById('result').value = string;
             }
             else{ 
                 console.log(e.target)
                 string = string + e.target.innerHTML;
-                document.getElementsByClassName('display').value = string;
+                document.getElementsByClassName('result').value = string;
             }
         })
     })
